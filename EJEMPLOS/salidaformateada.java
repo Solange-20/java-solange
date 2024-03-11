@@ -1,3 +1,5 @@
+package EJEMPLOS;
+
 public class salidaformateada {
     /**
      * Salida formateada
